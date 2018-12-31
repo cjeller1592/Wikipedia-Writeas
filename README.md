@@ -1,6 +1,17 @@
 # Wikipedia-Writeas
-Extract Wikipedia summaries and create Write.as posts from them
 
-A simple app to extract summaries from Wikipedia entries and put them into easy to read Write.as posts.
+Sometimes you want a brief definition about something. No hyperlink rabbit holes, just enough to work from. This program helps with doing just that, extracting summaries from Wikipedia and putting them into easy to read Write.as posts.
 
 Much obliged to the <a href="https://github.com/goldsmith/Wikipedia">Wikipedia wrapper</a> and <a href="https://write.as">Write.as</a>!
+
+```
+python extract.go
+```
+
+```
+Put in a topic here: Smallest Federated Wiki
+```
+
+```
+Check the post here: https://write.as/a2f42fbsn04q0xgx
+```
