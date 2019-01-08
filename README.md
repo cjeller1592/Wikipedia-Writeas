@@ -5,7 +5,7 @@ Sometimes you want a brief definition about something. No hyperlink rabbit holes
 Much obliged to the <a href="https://github.com/goldsmith/Wikipedia">Wikipedia wrapper</a> and <a href="https://write.as">Write.as</a>!
 
 ```
-python extract.go
+python main.py
 ```
 
 ```
